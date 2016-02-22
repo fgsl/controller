@@ -1,0 +1,20 @@
+{
+    "name": "expresso/controller",
+    "description": "Expresso Controller",
+    "type": "library",
+    "keywords": [
+        "controller",
+        "expresso",
+        "framework"
+    ],
+    "homepage": "http://gitlab.serpro/flavio.lisboa/expresso-controller",
+    "license": "AGPL",
+    "autoload": {
+        "psr-4": {
+            "Expresso\\Controller\\": "src/Expresso/Controller"
+        }
+    },
+    "require": {
+        "php": ">=5.4"
+    }
+}
