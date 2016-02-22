@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-Expresso Skeleton Component has patterns for Expresso components
+Expresso Controller provides generic implementation for handling requests
 
 ## Test
 
