@@ -7,7 +7,7 @@
         "expresso",
         "framework"
     ],
-    "homepage": "http://gitlab.serpro/flavio.lisboa/expresso-controller",
+    "homepage": "https://git.serpro/27524001878/expresso-controller",
     "license": "AGPL",
     "autoload": {
         "psr-4": {
