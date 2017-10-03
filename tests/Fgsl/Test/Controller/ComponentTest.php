@@ -1,17 +1,17 @@
 <?php
 /**
-* Expresso Controller - implementations of request controller patterns
+ * Fgsl Controller - implementations of request controller patterns
  *
- * @author    Flávio Gomes da Silva Lisboa <flavio.lisboa@serpro.gov.br>
- * @link      https://gitlab.com/expresso_livre/expresso for the canonical source repository
- * @copyright Copyright (c) 2016 SERPRO (http://www.serpro.gov.br)
+ * @author    Flávio Gomes da Silva Lisboa <flavio.lisboa@fgsl.eti.br>
+ * @link      https://gitlab.com/fgsl/controller for the canonical source repository
+ * @copyright Copyright (c) 2017 FGSL (http://www.fgsl.eti.br)
  * @license   https://www.gnu.org/licenses/agpl.txt GNU AFFERO GENERAL PUBLIC LICENSE
  */
-namespace Expresso\Test\Controller;
+namespace Fgsl\Test\Controller;
 
 /**
  * 
- * @package    Expresso
+ * @package    Fgsl
  * @subpackage Test
  */
 class ComponentTest extends \PHPUnit_Framework_TestCase

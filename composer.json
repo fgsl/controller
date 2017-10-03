@@ -1,17 +1,17 @@
 {
-    "name": "expresso/controller",
-    "description": "Expresso Controller",
+    "name": "fgsl/controller",
+    "description": "Fgsl Controller",
     "type": "library",
     "keywords": [
         "controller",
-        "expresso",
+        "fgsl",
         "framework"
     ],
-    "homepage": "https://github.com/fgsl/expresso-controller",
+    "homepage": "https://github.com/fgsl/controller",
     "license": "AGPL",
     "autoload": {
         "psr-4": {
-            "Expresso\\Controller\\": "src/Expresso/Controller"
+            "Fgsl\\Controller\\": "src/Fgsl/Controller"
         }
     },
     "require": {
